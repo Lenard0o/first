@@ -1,2 +1,2 @@
-# first
-Abteilungen
+# Abteilungen
+# Für die Praktikanten
